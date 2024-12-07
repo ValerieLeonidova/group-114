@@ -1,0 +1,16 @@
+.team {
+    background-color: purple;
+    color: beige;
+}
+
+.team-title {
+    font-size: 25px;
+}
+
+.team-list {
+    display: flex;
+    font-display: row;
+    gap: 20px;
+}
+
+
