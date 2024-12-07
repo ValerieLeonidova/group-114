@@ -1,0 +1,11 @@
+.about {
+  background: red;
+}
+
+.about-title {
+  font-size: 30px;
+}
+
+.about-text {
+  color: #fff;
+}
