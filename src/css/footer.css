@@ -1,5 +1,7 @@
 .footer {
   padding: 20px 0;
+  background-color: #41d1ff;
+  color:blueviolet;
 }
 .footer-desc {
   text-align: center;
